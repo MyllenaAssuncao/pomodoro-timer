@@ -1,6 +1,6 @@
 # 🍅 Pomodoro - Timer de Estudos
 
-Cronômetro de foco pela técnica **Pomodoro**, feito em **Java** com Swing. Estude com foco por 25 minutos, descanse 5, e a cada 4 blocos faça um descanso mais longo — tudo controlado automaticamente.
+Cronômetro de foco pela técnica **Pomodoro**, feito em **Java** com Swing. Estude com foco por 25 minutos, descanse 5, e a cada 4 blocos faça um descanso mais longo, tudo controlado automaticamente.
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/licença-MIT-blue)
